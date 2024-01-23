@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Matahari Terbit",
+    "author": "Ernest Hemingway",
+    "genre": "Fiksi",
+    "description": "Sebuah novel yang menggambarkan kehidupan dan cinta di tengah-tengah Perang Dunia I.",
+    "price": 75000,
+    "stock": 100
+  },
+  {
+    "title": "Keajaiban Pagi",
+    "author": "R.J. Palacio",
+    "genre": "Buku Anak-Anak",
+    "description": "Cerita inspiratif tentang keajaiban kecil dalam kehidupan sehari-hari.",
+    "price": 55000,
+    "stock": 80
+  },
+  {
+    "title": "Misteri Hutan Gelap",
+    "author": "Agatha Christie",
+    "genre": "Detektif",
+    "description": "Seorang detektif terkenal terlibat dalam menyelidiki misteri pembunuhan di dalam hutan gelap.",
+    "price": 88000,
+    "stock": 120
+  },
+  {
+    "title": "Sang Pemimpi",
+    "author": "Andrea Hirata",
+    "genre": "Sastra Indonesia",
+    "description": "Kisah persahabatan dan impian di Pulau Belitong.",
+    "price": 65000,
+    "stock": 90
+  },
+  {
+    "title": "Pulang",
+    "author": "Tere Liye",
+    "genre": "Romantis",
+    "description": "Kisah cinta sejati yang diuji oleh jarak dan waktu.",
+    "price": 72000,
+    "stock": 110
+  }
+]
